@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Claim Type_Select-control</name>
+   <tag></tag>
+   <elementGuidId>b0d92327-2e8c-44f8-b6a3-e0e6cdef312e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='addattmonitoring']/div[2]/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Select-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>332e5871-420b-49de-8a62-9df965f0e688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Select-control</value>
+      <webElementGuid>259d9963-4950-42c7-a34f-3eeb9579a57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addattmonitoring&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-lg-8 col-xl-8&quot;]/div[@class=&quot;form__form-group&quot;]/div[@class=&quot;form__form-group-field&quot;]/div[@class=&quot;form__form-group-input-wrap form__form-group-input-wrap--error-above&quot;]/div[@class=&quot;Select form__form-group-select  is-focused is-open is-searchable Select--single&quot;]/div[@class=&quot;Select-control&quot;]</value>
+      <webElementGuid>eb3cdbae-ac79-49ea-9664-6fa35b1e346f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='addattmonitoring']/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>7e72140b-d75e-4104-9f1f-6aa57b4de747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Type'])[1]/following::div[4]</value>
+      <webElementGuid>b14fa8ca-c517-4fc8-a91b-e7bdf345933b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submission Form'])[1]/following::div[16]</value>
+      <webElementGuid>c57d1c29-5bf9-4c59-8ef5-dcf48b4726b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Claim'])[1]/preceding::div[5]</value>
+      <webElementGuid>de6078f2-851f-4706-be8c-dfcce7ff288a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kacamata Claim'])[1]/preceding::div[6]</value>
+      <webElementGuid>5d77a673-9141-401e-9033-986cc336f895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>7c4cbad7-7c7f-4eef-aedd-ce4e9178410e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
